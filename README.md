@@ -1,2 +1,2 @@
 # iching
-Explorations of iching as a development goal
+a basic simple implementation of the iching for pharo
