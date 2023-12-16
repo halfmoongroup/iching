@@ -1,3 +1,20 @@
+"
+For the Class part:   ""I represent a set of iching tiles"".
+
+For the Responsibility part: Three sentences about my main responsibilities - what I do, what I know.
+I read the file of data from the disk and keep track of the information. I provide a random iching entry. 
+
+
+
+- primeData   Read the data from the file system. 
+- atRandom 	  Choose an entry at random 
+	
+server :- IchingServer new. 
+
+aCast := server atRandom. 
+
+
+"
 Class {
 	#name : #IChingServer,
 	#superclass : #Object,
